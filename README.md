@@ -1,5 +1,3 @@
-# up-and-away-SW411
-
 # Up and Away SWENG 411 Final Project
 
 ![alt text](https://cdn.discordapp.com/attachments/993779291697459230/1034690672407621672/upandaway-homepage.PNG)
