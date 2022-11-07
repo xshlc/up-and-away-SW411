@@ -7,8 +7,8 @@ class AmadeusApiHandler():
 
     def __init__(self):
         self.amadeus = Client(
-            client_id='EP0gdcGhtMaLrUWMVVuGYQW1V92gaXwv',
-            client_secret='JDvtv4JhtANLH5RF'
+            client_id='CLIENT_ID_###',
+            client_secret='CLIENT_API_KEY'
         )
     
     # Generate condensed JSON data to better manipulate in the front-end
