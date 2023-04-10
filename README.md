@@ -8,3 +8,6 @@
 ![alt text](https://cdn.discordapp.com/attachments/993779291697459230/1034690672759939102/upandaway-search.PNG)
 
 
+Python 3.10.6
+Node v16.17.0
+npm 9.6.4
